@@ -1,0 +1,284 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\5e12859a99ecc13cb441df3949ea91f4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\a6ae9cf59ea7c233a8732a5f19cbd753\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\c7ada5fd43566d853cec3af8f3eb6457\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\29fa7feaf13d17f9ad8236ca002a96c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\313bde88ca9b5f3beed9651891071bf9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\4e46ad96abd7bb1b8a035b7635a2fad8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\4668750f4a4079ba72c9210bfbfa0a20\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\c8df51d1abcd9ac215a01c341a5bacd6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\fd2c15a06e12f404239fbe82fba36629\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\693865f89054827b3b910023a240537a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\36365ec172ce85470bff011742783318\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\2a07bc4299f0c99d83bb22b40e4adf5f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\778c5f5eea9e3c7b9e5e6708c1fe9654\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\dbcf5f41f06d433c187a7f661b2f6389\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\9a55e76a72703064a4fa2014865a870d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ba58738effb0f72b67ff9cddbebf5780\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\39ddd764dbe2f152278e3fb9bc965043\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\1dff991390e6d42148ad268945c43759\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\9a42ad74dc65e2e2951a29d15d8d7416\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9cac22b392604a9b61bb85721407c53e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\98cdd3902663026543659bacd581dd8f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\bef0c4eb0e7299627648c128935cd1f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\55bb54bfdcd54222843d43793662f944\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\532a49c3b96cb9fb27437e3e3f37d668\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\88f67ce59efe05faf4b4d7ba4bd40c73\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\1a4027dee417047c70b6fbfcf499119a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\8149a27a5b3431c31d98bcc64f0be30f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\65b08046d4d06ed669e9047a3bf3c5ca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d4204e6b672d8bd22dbd066275127e35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c700a12d140086e18f0ef2f65d89afa6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\71717f2f05bed09b8f94d72bbf623ed6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\613ef1ed67d2b8a2a03115a3db6bf832\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\90f566b5a9562fffa6ef6700f8d862b9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\0a5a3d83f1d5dc518572f238d48ac7ba\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\05830cafb5b3de8a7bbeef6ac7271f5d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\861d490c240d1677fd86e960d52729e1\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\28292217675d3ab95bff9c4b8bf3a096\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.3.1.aar\8847556f26d724dace109cfa4eb9af29\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\18fd24530c387dbdfafc10f245d21171\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:6:5-76
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:10:5-76
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:6:22-73
+application
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:13:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\5e12859a99ecc13cb441df3949ea91f4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\5e12859a99ecc13cb441df3949ea91f4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\313bde88ca9b5f3beed9651891071bf9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\313bde88ca9b5f3beed9651891071bf9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\4e46ad96abd7bb1b8a035b7635a2fad8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\4e46ad96abd7bb1b8a035b7635a2fad8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\4668750f4a4079ba72c9210bfbfa0a20\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\4668750f4a4079ba72c9210bfbfa0a20\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\c8df51d1abcd9ac215a01c341a5bacd6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\c8df51d1abcd9ac215a01c341a5bacd6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\fd2c15a06e12f404239fbe82fba36629\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\fd2c15a06e12f404239fbe82fba36629\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\693865f89054827b3b910023a240537a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\693865f89054827b3b910023a240537a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\1a4027dee417047c70b6fbfcf499119a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\1a4027dee417047c70b6fbfcf499119a\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\861d490c240d1677fd86e960d52729e1\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\861d490c240d1677fd86e960d52729e1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.3.1.aar\8847556f26d724dace109cfa4eb9af29\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.3.1.aar\8847556f26d724dace109cfa4eb9af29\AndroidManifest.xml:10:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\18fd24530c387dbdfafc10f245d21171\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\18fd24530c387dbdfafc10f245d21171\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\1a4027dee417047c70b6fbfcf499119a\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:11:13-39
+	android:label
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:10:13-45
+	android:allowBackup
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:9:13-39
+	android:theme
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:12:13-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:14:9-16:57
+	android:value
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:16:17-55
+	android:name
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:15:17-62
+activity#com.example.placesdemo.MainActivity
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:22:17-76
+	android:name
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:7:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\5e12859a99ecc13cb441df3949ea91f4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\5e12859a99ecc13cb441df3949ea91f4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\a6ae9cf59ea7c233a8732a5f19cbd753\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\a6ae9cf59ea7c233a8732a5f19cbd753\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\c7ada5fd43566d853cec3af8f3eb6457\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0-rc01.aar\c7ada5fd43566d853cec3af8f3eb6457\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\29fa7feaf13d17f9ad8236ca002a96c4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0-rc01.aar\29fa7feaf13d17f9ad8236ca002a96c4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\313bde88ca9b5f3beed9651891071bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-clearcut-16.0.0.aar\313bde88ca9b5f3beed9651891071bf9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\4e46ad96abd7bb1b8a035b7635a2fad8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-location-16.0.0.aar\4e46ad96abd7bb1b8a035b7635a2fad8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\4668750f4a4079ba72c9210bfbfa0a20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-places-16.0.0.aar\4668750f4a4079ba72c9210bfbfa0a20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\c8df51d1abcd9ac215a01c341a5bacd6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-phenotype-16.0.0.aar\c8df51d1abcd9ac215a01c341a5bacd6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\fd2c15a06e12f404239fbe82fba36629\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-tasks-16.0.1.aar\fd2c15a06e12f404239fbe82fba36629\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\693865f89054827b3b910023a240537a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\play-services-places-placereport-16.0.0.aar\693865f89054827b3b910023a240537a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\36365ec172ce85470bff011742783318\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-rc01.aar\36365ec172ce85470bff011742783318\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\2a07bc4299f0c99d83bb22b40e4adf5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\media-1.0.0-rc01.aar\2a07bc4299f0c99d83bb22b40e4adf5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\778c5f5eea9e3c7b9e5e6708c1fe9654\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\778c5f5eea9e3c7b9e5e6708c1fe9654\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\dbcf5f41f06d433c187a7f661b2f6389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\dbcf5f41f06d433c187a7f661b2f6389\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\9a55e76a72703064a4fa2014865a870d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\9a55e76a72703064a4fa2014865a870d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ba58738effb0f72b67ff9cddbebf5780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\ba58738effb0f72b67ff9cddbebf5780\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\39ddd764dbe2f152278e3fb9bc965043\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\39ddd764dbe2f152278e3fb9bc965043\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\1dff991390e6d42148ad268945c43759\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\1dff991390e6d42148ad268945c43759\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\9a42ad74dc65e2e2951a29d15d8d7416\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\9a42ad74dc65e2e2951a29d15d8d7416\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9cac22b392604a9b61bb85721407c53e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\9cac22b392604a9b61bb85721407c53e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\98cdd3902663026543659bacd581dd8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\98cdd3902663026543659bacd581dd8f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\bef0c4eb0e7299627648c128935cd1f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\bef0c4eb0e7299627648c128935cd1f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\55bb54bfdcd54222843d43793662f944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\55bb54bfdcd54222843d43793662f944\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\532a49c3b96cb9fb27437e3e3f37d668\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\532a49c3b96cb9fb27437e3e3f37d668\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\88f67ce59efe05faf4b4d7ba4bd40c73\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\88f67ce59efe05faf4b4d7ba4bd40c73\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\1a4027dee417047c70b6fbfcf499119a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\1a4027dee417047c70b6fbfcf499119a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\8149a27a5b3431c31d98bcc64f0be30f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\8149a27a5b3431c31d98bcc64f0be30f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\65b08046d4d06ed669e9047a3bf3c5ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\65b08046d4d06ed669e9047a3bf3c5ca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d4204e6b672d8bd22dbd066275127e35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\d4204e6b672d8bd22dbd066275127e35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c700a12d140086e18f0ef2f65d89afa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c700a12d140086e18f0ef2f65d89afa6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\71717f2f05bed09b8f94d72bbf623ed6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\71717f2f05bed09b8f94d72bbf623ed6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\613ef1ed67d2b8a2a03115a3db6bf832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\613ef1ed67d2b8a2a03115a3db6bf832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\90f566b5a9562fffa6ef6700f8d862b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\90f566b5a9562fffa6ef6700f8d862b9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\0a5a3d83f1d5dc518572f238d48ac7ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\0a5a3d83f1d5dc518572f238d48ac7ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\05830cafb5b3de8a7bbeef6ac7271f5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\05830cafb5b3de8a7bbeef6ac7271f5d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\861d490c240d1677fd86e960d52729e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\861d490c240d1677fd86e960d52729e1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\28292217675d3ab95bff9c4b8bf3a096\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\28292217675d3ab95bff9c4b8bf3a096\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.3.1.aar\8847556f26d724dace109cfa4eb9af29\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.3.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-glide-4.3.1.aar\8847556f26d724dace109cfa4eb9af29\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\18fd24530c387dbdfafc10f245d21171\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-volley-1.1.1.aar\18fd24530c387dbdfafc10f245d21171\AndroidManifest.xml:7:5-43
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yoshino\3D Objects\android-places-demos-master\compat\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:11:22-64
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:20:13-62
+	android:hardwareAccelerated
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:22:13-71
+	android:exported
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [com.google.android.libraries.places:places-compat:1.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-places-compat-1.0.0.aar\b903bd3371b208dae1d57fff6cdca549\AndroidManifest.xml:17:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\6951c067b84898038c8f4a9a35b8cbe9\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.1.0.aar\b5033b6e0fa667e364281945a990c6e2\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\Yoshino\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.2.0.aar\80f3d9308e0f25c7a3591986e9b04284\AndroidManifest.xml:24:13-58
